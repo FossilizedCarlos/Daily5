@@ -21,13 +21,13 @@ Usage:
 - Double tap to toggle between complete and incomplete state
 - Delete the text of the task to remove it 
 
-<h1>Daily5 on the App Store</h1>
+<h2>Daily5 on the App Store</h2><br>
 <a href="https://itunes.apple.com/us/app/daily5/id723801492?mt=8">Daily5 on the App Store</a>
 
-<h1>Daily5 Video/h1>
+<h2>Daily5 Video</h2><br>
 <a href="http://www.youtube.com/watch?v=oRrxTDO-d0w">Daily5 Video on YouTube</a>
 
-<h1>License</h1>
+<h2>License</h2> <br>
 You are free to use the code and build your new awesome apps. You are NOT allowed to post the same project on the App Store. You are also NOT allowed to use the icons, images etc in your own projects. You are also NOT allowed to sell the code.
 
 
