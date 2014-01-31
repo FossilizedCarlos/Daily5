@@ -3,7 +3,7 @@
 
 <h1>Daily5</h1>
 
-<p>
+
 Unapologetically Simple Task Management List!
 
 Are you tired of piling up tasks in endless todo list applications? The more tasks you have the more anxious you will feel!
@@ -21,4 +21,4 @@ Usage:
 - Double tap to toggle between complete and incomplete state
 - Delete the text of the task to remove it 
  
-</p>
+
